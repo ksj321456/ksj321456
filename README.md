@@ -12,7 +12,6 @@
   #### :raising_hand: I am a Computer Science Student from South Korea.
   #### :raising_hand: 情報学を専攻してる韓国出身の大学生です。
   <br/>
-  <br/>
 
   ## :running: Project
   #### Real-time Picture Quiz Game with Java
@@ -26,5 +25,14 @@
   #### Care system for the elderly
   #### 高齢者向けケアシステム
   https://github.com/Team-ElderCare/ElderCare-SpringBoot
+  <br/>
+  <br/>
+  ## 🤔 Github Stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksj321456)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksj321456)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 
 </div>
