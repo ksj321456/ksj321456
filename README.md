@@ -10,7 +10,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a Computer Science Student from South Korea.
-  #### :raising_hand: 情報学を専攻してる韓国出身の大学生です。
+  #### :raising_hand: コンピューター工学を専攻してる韓国出身の大学生です。
   <br/>
 
   ## 🧱 Tech Stack
@@ -32,11 +32,15 @@
   <img src="https://img.shields.io/badge/SpringBoot-EE4C2C?style=flat-square&logo=springboot&logoColor=white"/>
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <!--Flask-->
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <br/>
 
   ### ETC
   <!--Amazon AWS-->
   <img src="https://img.shields.io/badge/Amazon EC2-232F3E?style=flat-square&logo=amazonec2&logoColor=white"/>
+  <!--Amazon RDS-->
+  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <!--Amazon S3-->
