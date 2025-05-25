@@ -57,14 +57,17 @@
   ## :running: Project
   #### Real-time Picture Quiz Game with Java
   #### リアルタイム絵クイズゲーム
+  #### 실시간 그림 퀴즈 게임
   https://github.com/ksj321456/Network_Programming_Project
 
   #### Simulated Virtual Currency Investment System
   #### 模擬仮想通貨投資システム
+  #### 모의 가상화폐 투자 시스템
   https://github.com/ksj321456/ReactProject
 
   #### Care system for the elderly
   #### 高齢者向けケアシステム
+  #### 고령자 케어 시스템
   https://github.com/Team-ElderCare/ElderCare-SpringBoot  
 
 </div>
