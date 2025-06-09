@@ -9,7 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: 2026/10/01~ Bakend Engineer in Rakuten Bank
+  #### :raising_hand: 2026/10/01~ Backend Engineer in Rakuten Bank
   #### :raising_hand: 2026/10/01~ 楽天銀行 バックエンドエンジニア
   <br/>
 
