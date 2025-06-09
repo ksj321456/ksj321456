@@ -9,8 +9,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Computer Science Student from South Korea.
-  #### :raising_hand: コンピューター工学を専攻してる韓国出身の大学生です。
+  #### :raising_hand: 2026/10/01~ Bakend Engineer in Rakuten Bank
+  #### :raising_hand: 2026/10/01~ 楽天銀行 バックエンドエンジニア
   <br/>
 
   ## 🧱 Tech Stack
