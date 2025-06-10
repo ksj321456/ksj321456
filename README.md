@@ -65,9 +65,9 @@
   #### 모의 가상화폐 투자 시스템
   https://github.com/ksj321456/ReactProject
 
-  #### Care system for the elderly
-  #### 高齢者向けケアシステム
-  #### 고령자 케어 시스템
-  https://github.com/Team-ElderCare/ElderCare-SpringBoot  
+  #### Exercise Posture Correcting System
+  #### 運動姿勢矯正システム
+  #### 운동 자세 교정 시스템
+  https://github.com/PoseSync/PoseSync-Flask
 
 </div>
